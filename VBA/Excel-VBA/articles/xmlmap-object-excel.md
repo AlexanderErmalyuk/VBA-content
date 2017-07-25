@@ -23,7 +23,7 @@ Use the  **[Add](xmlmaps-add-method-excel.md)** method of the **[XmlMaps](xmlmap
 
 ### Importing and exporting XML data
 
-Use the  **[Import](xmlmap-import-method-excel.md)** method to import XML data from an XML data file into cells mapped to the specified **XmlMap**. The **[ImportXml](xmlmap-importxml-method-excel.md)** method imports XML data for a **String** variable.
+Use the  **[Import](xmlmap-import-method-excel.md)** method to import XML data from an XML data file into cells mapped to the specified **XmlMap**. The **[ImportXml](xmlmap-importxml-method-excel.md)** method imports XML data from a **String** variable.
 
 Use the  **[Export](xmlmap-export-method-excel.md)** method to export data from cells mapped to the specified **XmlMap**. The **[ExportXml](xmlmap-exportxml-method-excel.md)** method exports XML data to a **String** variable.
 
